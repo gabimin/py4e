@@ -20,7 +20,7 @@ print(word.replace("nanas", "identikit"[4:7]))
 print(word.replace("ba"[0:2], "peaches"[2]))
 
 
-# find(sub[, start[, end]])
+# find
 
 word = "pineapple"
 tree = word[:int(word.find("apple"))]
