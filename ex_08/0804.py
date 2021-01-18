@@ -2,15 +2,12 @@
 
 file = input("Enter file: ")
 opentext = open(file)
-
 raw = []
 for line in opentext:
     words = line.split()
     raw = raw + words
-
 clean = []
 for word in raw:
     if word in clean : continue
     clean.append(word)
-
 print(sorted(clean))
