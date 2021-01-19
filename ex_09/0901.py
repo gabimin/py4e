@@ -12,7 +12,7 @@ raw = []
 
 for line in opentext:
     words = line.split()
-    raw =raw+words
+    raw = raw + words
 lotsOfKeys = dict()
 
 for word in raw:

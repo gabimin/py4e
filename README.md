@@ -1,5 +1,5 @@
 # py4e
 
-Exercises and code from PY4E book.
+My answers to exercises from PY4E book by Dr. Charles Severance.
 
-Course by Dr. Charles Severance. 
+https://www.py4e.com/
