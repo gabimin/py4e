@@ -1,0 +1,1 @@
+print(float(text[text.find(' '):].strip()))
