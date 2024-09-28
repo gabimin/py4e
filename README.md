@@ -1,5 +1,7 @@
 # py4e
 
-My answers to exercises from PY4E book by Dr. Charles Severance.
+![GitHub Created At](https://img.shields.io/github/created-at/gabimin/py4e?style=flat-square&logoSize=auto&labelColor=black&color=teal)
 
-https://www.py4e.com/
+[University of Michigan Python Specialization - Coursera](https://www.coursera.org/specializations/python)
+
+[Python for Everybody](https://www.py4e.com/)
